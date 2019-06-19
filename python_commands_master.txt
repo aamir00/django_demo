@@ -1,0 +1,31 @@
+workon django_project_env
+
+
+
+djangoadmin startproject basics
+python manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+
+python manage.py 
+
+
+python manage.py startapp hello-world // to start the app
+
+
+App -> considered each as standalone or single 
+
+
+project > app > template > app > index_files (templates)
+project > app > views (to render templates or send response)
+
+{{ - inside for
+
+{% %} - replace html
+
+
+
+
+3306 - mysql
+
+
